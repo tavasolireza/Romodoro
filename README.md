@@ -114,6 +114,14 @@ By default, the application creates a `data/` directory in your home folder at `
 - [Bubbles](https://github.com/charmbracelet/bubbles) - UI components
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - SQLite driver
 
+## Screenshots
+
+Screenshots were captured in the [Ghostty](https://ghostty.org/) terminal emulator using the *Sugarplum* theme.
+
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+
 ## License
 
 MIT License - see LICENSE file for details.
